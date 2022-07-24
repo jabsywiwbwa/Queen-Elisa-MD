@@ -32,25 +32,25 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94787811464'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94787811464'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94787811464'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'MR.SHENU' // Your name ඔබේ නම 
+global.botnma = ' ♦️𝐌𝐑.𝐒𝐇𝐑𝐍𝐔 𝐁𝐎𝐓♦️' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔' //ownernama,ownername
+global.packname = 'MR.SHENU SSTICKER' // Sticker package name 
+global.author = 'MR.SHENU' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `මොකද හුත්තො වද දෙන්නෙ මට මුකුත් වෙලා නෑ තාම යහතින් ඉන්නවා` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+global.alivelogo = `https://ibb.co/sb46B91`
 global.alive =`Hello i am alive now
 
-Download song type .yt 
+Download song type .song
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome = `අපගේ සමූහයට ඔබව සාදරයෙන් පිළිගනිමි..
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
@@ -59,8 +59,8 @@ global.welcome = `
 global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
-// Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+// පව් නොදී පලයන් හුත්තෝ 
+global.cap = `© 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐲 𝐌𝐑.𝐒𝐇𝐄𝐍𝐔`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
